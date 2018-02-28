@@ -1,7 +1,7 @@
 ﻿// ===============================================
 // ==< Declaración de variables >=================
 // ===============================================
-var url="https://rawgit.com/Pimpollo21/Repositorio-de-pruebas/master/xml/respuestas.xml";
+var url="https://rawgit.com/Pimpollo21/repositoriodepruebas2/master/xml/respuestas.xml";
 var respuestaSelect=null;
 var respuestasCheckbox = [];
 var nota = 0;
@@ -27,7 +27,7 @@ window.onload = function()
 		}
 		;
 	
-		xhttp.open("GET", "https://rawgit.com/Pimpollo21/Repositorio-de-pruebas/master/xml/respuestas.xml", true); 
+		xhttp.open("GET", "https://rawgit.com/Pimpollo21/repositoriodepruebas2/master/xml/respuestas.xml", true); 
 		xhttp.send();
 		// ============================
 		// ==< Obtener respuestas >====
