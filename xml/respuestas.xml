@@ -7,7 +7,7 @@
 		<option>1</option>
 		<option>2</option>
 		<option>3</option>
-		<answer>1</answer>
+		<answer1>1</answer1>
 	</question>
 	
 	<question id='pregunta2'>
@@ -16,7 +16,7 @@
 		<option>1</option>
 		<option>2</option>
 		<option>3</option>
-		<answer>2</answer>
+		<answer2>2</answer2>
 	</question>
 	
 	<question id='pregunta3'>
