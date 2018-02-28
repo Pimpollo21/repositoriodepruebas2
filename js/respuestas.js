@@ -39,7 +39,7 @@ window.onload = function()
 				document.getElementById("answer1").innerHTML    = xmlDoc.getElementsByTagName("answer1")[0].childNodes[0].nodeValue;
 				
 				document.getElementById("question2").innerHTML  = xmlDoc.getElementsByTagName("text").childNodes;
-				document.getElementById("answer2").innerHTML    = xmlDoc.getElementsByTagName("answer2")[1].childNodes[1].nodeValue;
+				document.getElementById("answer2").innerHTML    = xmlDoc.getElementsByTagName("answer2").childNodes.nodeValue;
 				
 				document.getElementById("question3").innerHTML  = xmlDoc.getElementsByTagName("text").childNodes;
 				document.getElementById("answer3").innerHTML    = xmlDoc.getElementsByTagName("answer")[2].childNodes[2].nodeValue;
