@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+
+	<question id='pregunta1'>
+		<type>radio</type>
+		<text>Pregunta 1</text>
+		<option>1</option>
+		<option>2</option>
+		<option>3</option>
+		<answer>1</answer>
+	</question>
+	
+	<question id='pregunta2'>
+		<type>radio</type>
+		<text>Pregunta 2</text>
+		<option>1</option>
+		<option>2</option>
+		<option>3</option>
+		<answer>2</answer>
+	</question>
+	
+	<question id='pregunta3'>
+		<type>checkbox</type>
+		<text>Pregunta 3</text>
+		<option>1</option>
+		<option>2</option>
+		<option>3</option>
+		<answer>3</answer>
+	</question>
+	
+	<question id='pregunta4'>
+		<type>checkbox</type>
+		<text>Pregunta 4</text>
+		<option>1</option>
+		<option>2</option>
+		<option>3</option>
+		<answer>1</answer>
+	</question>
+	
+	<question id='pregunta5'>
+		<type>text</type>
+		<text>Pregunta 5</text>
+		<answer>respuesta 5</answer>
+	</question>
+	
+	<question id='pregunta6'>
+		<type>text</type>
+		<text>Pregunta 6</text>
+		<answer>respuesta 6</answer>
+	</question>	
+	
+	<question id='pregunta7'>
+		<type>text</type>
+		<text>Pregunta 7</text>
+		<answer>respuesta 7</answer>
+	</question>
+	
+	<question id='pregunta8'>
+		<type>select</type>
+		<text>Pregunta 8</text>
+		<option>1</option>
+		<option>2</option>
+		<option>3</option>
+		<answer>1</answer>
+	</question>
+	
+	<question id='pregunta9'>
+		<type>multiple</type>
+		<text>Pregunta 9</text>
+		<option>1</option>
+		<option>2</option> 
+		<option>3</option> 
+		<option>4</option>
+		<answer>1</answer>
+		<answer>3</answer>
+	</question>
+	
+	<question id='pregunta10'>
+		<type>radio</type>
+		<text>Pregunta 10</text>
+		<option>1</option>
+		<option>2</option>
+		<option>3</option>
+		<answer>1</answer>
+	</question>
+	
+</questions>
